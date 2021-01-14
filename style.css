@@ -130,3 +130,10 @@ body{
     background-color:rgb(93, 148, 158);
     color: rgb(0, 0, 0);
 }
+@media (max-width: 600px){
+    .backpack{
+       text-align: center;
+       justify-content:center;
+       align-items: center;
+    }
+}
