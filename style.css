@@ -122,9 +122,7 @@ body{
     height: 40px;
 }
 .footer-sec{
-    text-align: center;
-    justify-content:center;
-    background-color:rgb(93, 148, 158);
+    background-color:rgb(180, 224, 231);
     color: rgb(0, 0, 0);
 }
 @media (max-width: 600px){
