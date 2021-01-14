@@ -136,7 +136,10 @@ body{
        justify-content:center;
        align-items: center;
     }
+}
+@media (max-width: 600px){
     .backpack-card{
         margin-right: 20px;
+        padding-right: 20px;
     }
 }
