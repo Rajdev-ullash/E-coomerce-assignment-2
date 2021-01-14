@@ -1,0 +1,132 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.top-bar{
+    background-color: #FFFFF4;
+}
+.nav-menu img{
+    height: 28px;
+    width: 250px;
+
+}
+.nav-item{
+    margin-left: 300px;
+}
+.nav-link{
+    margin-left: 70px;
+    color: black;
+    font-weight: 900;
+    font-size: 16px;
+
+}
+.nav-link:hover{
+    color: black;
+}
+.photo img{
+    width: 70%;
+    height: 100%;
+}
+.text-highlight{
+    font-weight: 700;
+    font-size: 80px;
+    color: #363958;
+}
+.shorttext-highlight{
+    font-weight: 700;
+    font-size: 80px;
+    color: #76C27E;
+}
+.btn{
+    padding: 0 30px;
+    height: 55px;
+    border-radius: 10px;
+}
+.btn:hover{
+    color: white;
+}
+.for-btn{
+    color: white;;
+    background-color: #2A1E59
+}
+.second-section{
+    margin-top: 120px;
+}
+.gutter img{
+    width: 78px;
+}
+.gutter-section{
+    box-shadow: 0px 10px 30px #bdb4b48a;
+    border-radius: 20px;
+}
+.gutter-text{
+    color: #363958;;
+    font-size: 24px;
+
+}
+.gutter-header{
+    margin-left: 10px;
+}
+.gutter-img img{
+    width: 599px;
+    margin-left: 100px;
+    margin-top: 25px;
+}
+.backpack{
+    margin-top: 120px;
+}
+.backpack-text{
+    font-weight: bold;
+    color: #161d6e;
+    font-size: 48px;
+}
+.card-text-highlight{
+    color:#363958;
+    ;
+}
+.card img{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+    width: 300px;
+    height: 280px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.backpack-footer{
+    border: 0;
+    background-color: white;
+}
+.backpack-card{
+    width: 370px;
+    height: 550px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+    margin-left: 15px;
+}
+.card-btn{
+    margin-left: 50px;
+}
+.price-highlight{
+    color: #76C27E;
+    font-weight: 900;
+
+}
+@media (max-width: 600px){
+    .gutter-section{
+       text-align: center;
+       justify-content:center;
+    }
+}
+.footer-info{
+    margin-top: 50px;
+}
+.logo-img{
+    width: 250px;
+    height: 40px;
+}
+.footer-sec{
+    text-align: center;
+    justify-content:center;
+    background-color:rgb(72, 163, 179);
+    color: rgb(0, 0, 0);
+}
