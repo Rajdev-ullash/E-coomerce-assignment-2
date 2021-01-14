@@ -13,7 +13,7 @@ body{
     margin-left: 300px;
 }
 .nav-link{
-    margin-left: 70px;
+    margin-left: 60px;
     color: black;
     font-weight: 900;
     font-size: 16px;
@@ -127,6 +127,6 @@ body{
 .footer-sec{
     text-align: center;
     justify-content:center;
-    background-color:rgb(72, 163, 179);
+    background-color:rgb(93, 148, 158);
     color: rgb(0, 0, 0);
 }
